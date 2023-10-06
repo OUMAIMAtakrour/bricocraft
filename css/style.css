@@ -438,7 +438,7 @@ a:focus {
 }
 
 .professional_section {
-  background-image: url(/images/homeservices.png) !important;
+  background-image: url(../images/homeservices.png) !important;
   background-size: cover;
   background-repeat: no-repeat;
 }
